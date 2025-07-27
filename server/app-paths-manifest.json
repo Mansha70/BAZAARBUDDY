@@ -1,0 +1,9 @@
+{
+  "/register/page": "app/register/page.js",
+  "/supplier/page": "app/supplier/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/group-buying/page": "app/group-buying/page.js",
+  "/vendor/page": "app/vendor/page.js"
+}
